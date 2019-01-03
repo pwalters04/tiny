@@ -1,0 +1,11 @@
+{
+  "name": "@pwalter/tiny",
+  "version": "1.0.0",
+  "description": "how to create npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paris walters",
+  "license": "ISC"
+}
